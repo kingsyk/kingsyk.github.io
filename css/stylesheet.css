@@ -1,7 +1,7 @@
 /* Define styles for the "my-paragraph" class */
 .my-paragraph {
-    color: #00FFFF;
-    font-size: 36px;
+    color: #45bd4d;
+    font-size: 20px;
 }
 
 /* Define styles for the #about ID */
@@ -13,4 +13,9 @@
 /* Define style for HTML body tag */
 body {
     font-family: 'Courier New', Courier, monospace;
+}
+
+/* Change link color from blue to orange on hover */
+a:hover {
+    color: #FFA500;
 }
