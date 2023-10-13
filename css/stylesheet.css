@@ -9,3 +9,8 @@
     background-color: #e9ecb7;
     padding: 20px;
 }
+
+/* Define style for HTML body tag */
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
