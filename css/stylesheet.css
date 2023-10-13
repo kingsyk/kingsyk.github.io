@@ -3,3 +3,9 @@
     color: #00FFFF;
     font-size: 36px;
 }
+
+/* Define styles for the #about ID */
+#about {
+    background-color: #e9ecb7;
+    padding: 20px;
+}
