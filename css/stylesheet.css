@@ -2,6 +2,9 @@
 .my-paragraph {
     color: #45bd4d;
     font-size: 20px;
+    /* the following are changing box model properties */
+    padding-left: 20px;
+    border: 1px solid #133;
 }
 
 /* Define styles for the #about ID */
